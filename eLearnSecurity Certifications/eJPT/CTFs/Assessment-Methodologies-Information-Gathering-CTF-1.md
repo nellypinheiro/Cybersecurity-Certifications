@@ -40,4 +40,4 @@ Unlike guided labs, Skill Check Labs are graded and do not provide solutions, re
 
 ## Completion Proof
 Certificate of Completion issued by INE.  
-See: `certificates/Certificate_of_Completion_ Assessment-Methodologies-Information-Gathering-CTF-1.pdf`
+See: `certificates/Certificate_of_Completion_Assessment-Methodologies-Information-Gathering-CTF-1.pdf`
