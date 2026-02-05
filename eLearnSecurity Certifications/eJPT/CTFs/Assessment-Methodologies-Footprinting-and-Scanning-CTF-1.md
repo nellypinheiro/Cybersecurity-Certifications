@@ -40,4 +40,4 @@ The lab required applying both active and passive reconnaissance techniques with
 
 ## Completion Proof
 Certificate of Completion issued by INE.  
-See: `certificates/Certificate_of_Completion_ Assessment-Methodologies-Footprinting-and-Scanning-CTF-1.pdf`
+See: `certificates/Certificate_of_Completion_Assessment-Methodologies-Footprinting-and-Scanning-CTF-1.pdf`
