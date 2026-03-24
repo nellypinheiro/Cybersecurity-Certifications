@@ -24,14 +24,14 @@ INE certifications emphasize practical, scenario-based learning focused on real-
 Each certification folder is organized as follows:
 ```text
 CertificationFolder/
-├── Official certification proof (PDF or image)       # e.g., eJPT.pdf
+├── Official certification proof
 └── CTFs/
     ├── Individual CTF or lab documentation files (.md)
     └── certificates/
         ├── Certificate_of_Completion_CTF-1.pdf
         ├── Certificate_of_Completion_CTF-2.pdf
         └── ... (rest of CTF certificates)
-
+```
 ---
 
 ## 📌 Notes
