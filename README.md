@@ -20,7 +20,6 @@ The goal of this repository is to provide a structured and transparent overview 
 ```text
 certifications/
 ├── INE/
-│   ├── eJPT/
-│   ├── ICCA/
-│   └── eCPPT/
-└── Others/
+├── eJPT/
+├── ICCA/
+└── eCPPT/
