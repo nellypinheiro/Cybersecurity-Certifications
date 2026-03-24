@@ -14,7 +14,7 @@ INE certifications emphasize practical, scenario-based learning focused on real-
 - **ICCA** – Certified Cloud Associate  
   Foundational cloud certification covering cloud concepts, services, and security fundamentals.
 
-- **eCPPT** – Certified Professional Penetration Tester *(In progress)*  
+- **eCPPT** – Certified Professional Penetration Tester
   Advanced penetration testing certification focused on real-world engagements, pivoting, and reporting.
 
 ---
