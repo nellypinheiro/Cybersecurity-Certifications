@@ -10,8 +10,8 @@ The goal of this repository is to provide a structured and transparent overview 
 
 ### INE / eLearnSecurity
 - **ICCA** – Certified Cloud Associate (Completed)
-- **eJPT** – Junior Penetration Tester (Completed)
-- **eCPPT** – Certified Professional Penetration Tester (Completed)
+- **eJPTv2** – Junior Penetration Tester (Completed)
+- **eCPPTv3** – Certified Professional Penetration Tester (Completed)
 
 ---
 
