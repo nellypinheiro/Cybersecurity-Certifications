@@ -22,7 +22,7 @@ INE certifications emphasize practical, scenario-based learning focused on real-
 ## 📂 Structure
 
 Each certification folder is organized as follows:
-
+```text
 CertificationFolder/
 ├── Official certification proof (PDF or image)       # e.g., eJPT.pdf
 └── CTFs/
